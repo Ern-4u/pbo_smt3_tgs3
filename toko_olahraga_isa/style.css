@@ -1,0 +1,4 @@
+.border-gradient {
+  border: 5px solid;
+  border-image: linear-gradient(to right, purple, orange) 1;
+}
